@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+* {
+    text-align: center;
+    background-color: #181717;
+}
+
+h1,p {
+    color: #ffffff;
+}
