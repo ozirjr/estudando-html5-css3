@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ----------------- HEADER ----------------- */
+header {
+    background-color: black;
+    color: white;
+    margin: -8px -8px;
+    padding: 10px;
+}
+
+nav {
+    color: white;
+}
+
+nav > a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: right;
+}
+
+/* ----------------- MAIN ----------------- */
+
+
+/* ----------------- FOOTER ----------------- */
+footer {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0px -8px;
+    padding: 2px;
+}
